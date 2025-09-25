@@ -666,7 +666,7 @@ footer {
     box-shadow: 0 8px 25px var(--shadow);
 }
 
-/* Hover tooltip for work and project items */
+/* Hover tooltip for work and project items
 .work-item::after, .project-item::after {
     content: 'Click on me for more info!';
     position: absolute;
@@ -691,7 +691,7 @@ footer {
 .work-item:hover::after, .project-item:hover::after {
     opacity: 1;
     visibility: visible;
-}
+} */
 
 .work-content, .project-content {
     display: flex;
